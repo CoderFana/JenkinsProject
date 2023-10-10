@@ -9,7 +9,7 @@ pipeline {
         }
         stage('Mpho2') {
             steps {
-                echo 'Hi I am Mpho 2'
+                echo 'I am ambitious'
             }
         }
         stage('Mpho3') {
