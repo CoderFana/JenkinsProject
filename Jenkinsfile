@@ -17,4 +17,5 @@ pipeline {
                 echo 'Hi I am Mpho 3'
             }
         }
-  }
+    }
+}
